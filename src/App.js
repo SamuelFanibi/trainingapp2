@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hello World Samuel 
+          Welcome to our training Samuel Fanibi 
         </a>
       </header>
     </div>
